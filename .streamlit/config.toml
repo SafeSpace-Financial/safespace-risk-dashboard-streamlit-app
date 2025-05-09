@@ -3,8 +3,6 @@ serverAddress = "0.0.0.0"
 serverPort = 8501
 gatherUsageStats = false
 enableXsrfProtection = false
-
-[browser]
 allowEmbedding = true
 
 [theme]
@@ -15,7 +13,7 @@ secondaryBackgroundColor="#1F516B"
 textColor="#A9B7BC"
 font="sans serif"
 linkColor="#6fb3d4"
-baseFontSize = 22
+baseFontSize = 20
 
 [theme.sidebar]
 backgroundColor="#1F516B"
